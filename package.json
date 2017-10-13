@@ -1,0 +1,14 @@
+{
+  "name": "email-pop",
+  "version": "1.0.0",
+  "description": "teste de envio de email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "julioc98",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.1.3"
+  }
+}
